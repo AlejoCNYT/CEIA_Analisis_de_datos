@@ -76,7 +76,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td rowspan="5">5️⃣</td>
         <td rowspan="5">Procesamiento de datos (continuación)</td>
-        <td><a href=otebooks/clase_05_discretizacion.ipynb>Discretización</a></td>
+        <td><a href=notebooks/clase_05_discretizacion.ipynb>Discretización</a></td>
     </tr>
     <tr>
         <td><a href=notebooks/clase_05_normalizacion_estandarizacion.ipynb>Normalización y estandarización</a></td>
